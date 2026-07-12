@@ -9,7 +9,7 @@ Welcome to the comprehensive guide for cracking Laravel interviews! This reposit
 > **💡 Short Answer**
 > The Service Container is a powerful tool for managing class dependencies and performing dependency injection in Laravel. It acts as a central registry where you can bind interfaces to concrete implementations. When a class requests a dependency, the container automatically resolves and injects it at runtime. This promotes loose coupling, enhances code testability, and simplifies the management of complex object graphs across your entire application without manual instantiation [...]
 
-👉 **📖 Read Full Answer:** [https://learnwithanything.online/laravel-service-container-explained](https://www.google.com/search?q=https://learnwithanything.online/laravel-service-container-explained)
+👉 **📖 Read Full Answer:** [https://learnwithanything.online](https://www.google.com/search?q=https://learnwithanything.online)
 
 ---
 
